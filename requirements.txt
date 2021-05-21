@@ -7,7 +7,7 @@ spacy==2.2.1
 numpy==1.17.2
 tensorboard==2.0.0
 tensorboardX==1.9
-tensorflow==2.0.0
+tensorflow==2.5.0
 tensorflow-estimator==2.0.0
 matplotlib==3.1.1
 scikit-learn==0.20.3
